@@ -16,7 +16,7 @@ contetnt="width=device-width,initial-scale=1">
       <p class="content-name name1">
         Dummy text1
       </p>
-      <p class="content">
+     <p class="content">
         This is a dummy text, no need to read this please do skip it , its no point in reading this.
       </p>
   </div>
