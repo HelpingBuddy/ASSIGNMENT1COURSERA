@@ -1,4 +1,3 @@
-# ASSIGNMENT1COURSERA
 <!DOCTYPE html>
 <html>
 <head>
