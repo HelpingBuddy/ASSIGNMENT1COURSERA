@@ -7,7 +7,7 @@
 <meta charset="utf-8">
 <meta name="viewport"
 contetnt="width=device-width,initial-scale=1">
-<link rel="stylesheet" type="text/css" href="https://devansh-007.github.io/CSSSTYLES/">
+<link rel="stylesheet" type="text/css" href="CSSSTYLES">
 </head>
 <BODY>
   <h1>COURSERA</h1>
