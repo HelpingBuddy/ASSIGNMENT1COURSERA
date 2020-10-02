@@ -7,7 +7,7 @@
 <meta charset="utf-8">
 <meta name="viewport"
 contetnt="width=device-width,initial-scale=1">
-<link rel="stylesheet" type="text/css" href="CSSSTYLES">
+<link rel="stylesheet" type="text/css" href="CSSSTYLES.CSS">
 </head>
 <BODY>
   <h1>COURSERA</h1>
